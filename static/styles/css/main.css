@@ -1,0 +1,34 @@
+
+    p {
+      color: green;
+      
+      text-align: left;
+      margin-left: 100px
+    } 
+    h1 {
+        font: 90px Arial, sans-serif;
+        color: black;
+        text-align: center;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px
+    }  
+    body {
+        background-color: lightgray;
+        background-image: url('/static/img/ocp.png');
+        background-repeat: no-repeat;
+        background-position: center top;
+    }
+    img {
+        opacity: 0.5;
+    }
+    div.tip {
+        text-align: left;
+        font: 65px Arial, sans-serif;
+        width: 900px;
+        margin: auto;
+        padding-left: 5%;
+        border: 10px solid black;
+    }   
+    
