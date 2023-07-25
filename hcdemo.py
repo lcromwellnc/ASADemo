@@ -17,7 +17,7 @@ def getTip():
 
 
 if __name__ =='__main__':
-    port = os.environ.get('FLASK_PORT') or 3333
+    port = os.environ.get('FLASK_PORT') or 8081
     port = int(port)
   
     app.run(port=port,host='0.0.0.0')
